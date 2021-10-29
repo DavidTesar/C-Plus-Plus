@@ -65,3 +65,20 @@ SLinkedList<T>& SLinkedList<T>::operator=(SLinkedList<T>& rhs) // assignment ope
     }
     return *this;
 }
+
+/* TODO: IMPLEMENT
+    template <class T>
+    void SLinkedList<T>::addFront(const E& e){}
+
+    template <class T>
+    void SLinkedList<T>::removeFront(){}
+
+    template <class T>    
+    const T& SLinkedList<T>::front() const{}
+
+    template <class T>
+    void SLinkedList<T>::addBack(const E& e){}
+
+    template <class T>
+    bool SLinkedList<T>::empty(){}
+*/
